@@ -1,0 +1,3 @@
+[codespell]
+skip = .git,Contributors.md,./docs/translations,./docs/translations/*,./docs/gui-tool-tutorials/translations,./docs/gui-tool-tutorials/translations/*,./docs/cli-tool-tutorials,./docs/cli-tool-tutorials/*,./docs/additional-material/translations,./docs/additional-material/translations/*,./docs/additional-material/Things*
+ignore-words-list = te
